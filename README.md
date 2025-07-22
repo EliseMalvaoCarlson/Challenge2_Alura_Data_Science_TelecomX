@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="challenge2/nome-da-imagem.png" alt="Descrição da imagem" width="600"/>
+  <img src="challenge2/challenge2.png" alt="Descrição da imagem" width="600"/>
 </p>
 
 
