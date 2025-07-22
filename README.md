@@ -1,3 +1,6 @@
+![Imagem](challenge2.png)
+
+
 # 📞 TelecomX_BR – Análise de Evasão de Clientes
 
 Este projeto tem como objetivo analisar o comportamento de clientes de uma empresa de telecomunicações e desenvolver estratégias para reduzir a evasão (churn). Utilizamos técnicas de análise exploratória, visualização de dados e modelos preditivos para extrair insights valiosos e propor soluções práticas.
