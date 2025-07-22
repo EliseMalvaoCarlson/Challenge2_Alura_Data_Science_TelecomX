@@ -1,4 +1,7 @@
-![Imagem](challenge2.png)
+<p align="center">
+  <img src="challenge2/nome-da-imagem.png" alt="Descrição da imagem" width="600"/>
+</p>
+
 
 
 # 📞 TelecomX_BR – Análise de Evasão de Clientes
