@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="challenge2/challenge_2.png" alt="Imagem Challenge 2" width="600"/>
+  <img src="challenge_2.png" alt="Imagem Challenge 2" width="600"/>
 </p>
-
-
 
 # 📞 TelecomX_BR – Análise de Evasão de Clientes
 
